@@ -1,4 +1,4 @@
-Terms of Service for Missing Star Fleet
+# Terms of Service for Missing Star Fleet
 
 Last Updated: 06/19/2025
 
