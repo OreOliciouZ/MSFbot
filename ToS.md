@@ -1,57 +1,33 @@
 # Terms of Service for Missing Star Fleet
 
-Last Updated: 06/19/2025
+**Last Updated:** June 20, 2025
 
-By using Missing Star Fleet ("the Bot") on Discord, you agree to the following Terms of Service. If you do not agree with any of these terms, please remove the Bot from your server and cease its usage.
+By inviting or using **Missing Star Fleet** ("the Bot") in your Discord server, you and all server members who use the Bot agree to be bound by these Terms of Service ("Terms") as well as Discord's own Terms of Service.
 
-1. Usage Agreement
-By inviting and using Missing Star Fleet, you acknowledge that:
+## 1. Description of Service
 
-You are at least 13 years old or of the age of digital consent in your country.
+The Bot provides features including, but not limited to, server moderation, an interactive economy game, and other utility commands. Features may be added, changed, or removed at any time without notice.
 
-You have the necessary permissions to add bots to and manage settings in your Discord server.
+## 2. Rules of Conduct
 
-2. Data Collection
-Missing Star Fleet may collect and store limited data to provide functionality and improve services. This may include:
+You agree not to use the Bot to:
+- Engage in any activity that violates Discord's Terms of Service or Community Guidelines.
+- Abuse, exploit, or attempt to reverse-engineer any feature of the Bot for unfair personal gain.
+- Use macros, scripts, or any form of automation to interact with the Bot's commands.
+- Conduct fraudulent trades or scam other users through any of the Bot's systems.
 
-User IDs
+## 3. Termination of Service
 
-Message content (only if necessary for bot functionality, e.g., moderation logs)
+We reserve the right to prohibit any user or server from using the Bot at any time, for any reason, without notice. This action is at the sole discretion of the Bot's creator, `oreoliciouz`, and may be enacted for violations of these Terms.
 
-Server IDs and settings
+## 4. Disclaimer of Warranty
 
-We do not sell or share any collected data with third parties.
+The Bot is provided on an "as-is" and "as-available" basis. We make no warranty that the service will be uninterrupted, timely, secure, or error-free.
 
-For more information, refer to our [Privacy Policy](https://github.com/OreOliciouZ/MSFbot/blob/main/PP.md).
+## 5. Limitation of Liability
 
-3. Prohibited Use
-You agree not to:
+In no event shall the creator of Missing Stars be liable for any direct, indirect, or consequential damages resulting from the use or inability to use the Bot.
 
-Use the Bot for any illegal or harmful activities.
+## 6. Contact
 
-Exploit, reverse engineer, or disrupt the functionality of the Bot.
-
-Use the Bot to harass, threaten, or harm others.
-
-Violations may result in the Bot being removed from your server or your access being revoked.
-
-4. Availability and Support
-Missing Star Fleet is provided "as is" without warranties of any kind. We do not guarantee:
-
-Uptime or uninterrupted service.
-
-Immediate support or feature availability.
-
-We reserve the right to modify or discontinue the Bot at any time without notice.
-
-5. Liability
-We are not liable for any damages, data loss, or harm arising from the use or misuse of the Bot.
-
-6. Changes to Terms
-We may update these Terms of Service at any time. Continued use of the Bot after changes constitutes acceptance of the new terms.
-
-7. Contact
-For questions or support, please contact: ms.missingstars@gmail.com
-
-Let me know your bot's name and any specific features or rules it enforces, and I can tailor this ToS more precisely for you.
-
+If you have any questions about these Terms, please contact us in our **[Support Server](https://discord.gg/asRaJG9zCc)**.
