@@ -1,85 +1,30 @@
-# **Privacy Policy for Missing Star Fleet**
+# Privacy Policy for Missing Stars
 
-*Last Updated: 06/19/2025*
+**Last Updated:** June 20, 2025
 
-Missing Star Fleet ("the Bot") respects your privacy and is committed to protecting your information. This Privacy Policy explains what data the Bot collects, how it's used, and your rights regarding your data.
+This Privacy Policy explains what information we collect, why we collect it, and how you can manage it when you use **Missing Stars** ("the Bot").
 
----
+## 1. What Data We Collect and Why
 
-### 1. Data We Collect
+To provide its services, the Bot stores the following data:
 
-When you use Missing Star Fleet, we may collect the following types of data:
+-   **User ID:** Your unique Discord ID is stored as the primary identifier for your economy data and moderation logs. This is necessary for the bot to remember your balance, items, and warnings.
+-   **Guild (Server) ID:** We store the server ID where a warning is issued to ensure warnings are specific to that server.
+-   **Moderator ID:** When a warning is issued, we store the User ID of the moderator who issued it for accountability.
+-   **Economy Data:** We store your wallet/bank balances, item inventories, and command cooldowns to make the economy game function correctly.
 
-* **Server Information:** Server ID, server name, and configuration settings.
-* **User Information:** User ID and username (only when needed for bot functionality).
-* **Message Content:** Only when explicitly required (e.g., for moderation, command handling, logging).
-* **Command Usage Data:** Logs of command usage for analytics and diagnostics (non-personal).
+## 2. Data Storage & Security
 
-We **do not** collect:
+The Bot and its database are hosted on **Discloud**. We take reasonable measures to secure your data from unauthorized access, but please be aware that no method of electronic storage is 100% secure.
 
-* Passwords
-* Direct messages (DMs), unless the bot is designed to operate within DMs
-* Sensitive personal information (unless specified)
+## 3. Third-Party Services
 
----
+Besides Discloud for hosting, the Bot does not share data with any other third-party services.
 
-### 2. How We Use Your Data
+## 4. Your Rights and Data Deletion
 
-Data is used to:
+You have the right to request the complete deletion of your user-specific data (your economy profile and warning history). To do so, please join our official **[Support Server](https://discord.gg/asRaJG9zCc)** and contact a staff member.
 
-* Operate core features of the Bot
-* Provide support and improvements
-* Detect and prevent abuse or misuse
-* Maintain server-specific configurations
+## 5. Contact Us
 
----
-
-### 3. Data Storage & Retention
-
-* Data is stored securely and only as long as necessary for its intended purpose.
-* You may request data deletion at any time (see Section 6).
-* If the Bot is removed from a server, associated server data will be deleted automatically or after a reasonable period.
-
----
-
-### 4. Sharing of Data
-
-We **do not sell, share, or rent** your data to third parties. Data may only be shared under the following conditions:
-
-* With your explicit consent
-* If required by law
-* For technical support with trusted collaborators (only the minimum necessary data)
-
----
-
-### 5. Children's Privacy
-
-The Bot is intended for users aged 13 or older, in accordance with Discord’s Terms of Service. If you believe the Bot has collected data from a user under the age of 13, please contact us immediately.
-
----
-
-### 6. Your Rights
-
-You have the right to:
-
-* Request access to your data
-* Request deletion of your data
-* Opt out of certain data collection (if possible without breaking bot functionality)
-
-To exercise any of these rights, contact on Discord: oreoliciouz
-
----
-
-### 7. Changes to This Policy
-
-This policy may be updated from time to time. Material changes will be announced through our support server or via bot announcements. Continued use of the Bot after changes constitutes acceptance.
-
----
-
-### 8. Contact
-
-If you have questions about this Privacy Policy, reach out via:
-
-* Discord: oreoliciouz
-* Email: ms.missingstars@gmail.com
-* Support Server: [Missing Stars](https://discord.gg/asRaJG9zCc)
+If you have any questions about this Privacy Policy, please contact us in our **[Support Server](https://discord.gg/asRaJG9zCc)**.
